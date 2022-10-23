@@ -1,4 +1,4 @@
-baseURL = 'http://forsius.se/'
+baseURL = 'https://adrianforsius.github.io/'
 languageCode = 'en-us'
 title = 'Forsius.se'
 theme = "PaperMod"
